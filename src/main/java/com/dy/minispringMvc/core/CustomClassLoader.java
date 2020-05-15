@@ -11,7 +11,7 @@ import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 
 /**
- * 自定义类加载，主要是拿到类的全限定名称
+ * 自定义类加载 目的就是拿到当前jar包下所有java.lang.Class
  * <p>
  * 类的加载3个阶段
  * <p>
@@ -19,7 +19,6 @@ import java.util.jar.JarFile;
  * 将这个字节流所代表的静态存储结构转化为方法区的运行时数据结构
  * 在内存中生成一个代表这个类的java.lang.Class对象，作为方法区这个类的各种数据的访问入口
  * <p>
- * 这个类的目的是为了
  */
 public class CustomClassLoader {
     public static List<Class<?>> loadeClass(String packageName) throws IOException, ClassNotFoundException {

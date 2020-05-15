@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * SpringMvc中的第二重要的Handle管理器，对应不同的Url分配不同的Handler
+ * 创建所有Url和Controller的映射
  */
 public class HandlerManager {
     private static Map<String, HandlerMapping> handlerMappingMap = new ConcurrentHashMap<String, HandlerMapping>();
@@ -29,26 +29,47 @@ public class HandlerManager {
         }
     }
 
-    private static void parseHandlerFromController(Class<?> cla) {
-        Method[] methods = cla.getMethods();
-        for (Method method : methods) {
-            if (!method.isAnnotationPresent(CustomRequestMapping.class)) {
+//    private static void parseHandlerFromController(Class<?> cla) {
+//        Method[] methods = cla.getMethods();
+//        for (Method method : methods) {
+//            if (!method.isAnnotationPresent(CustomRequestMapping.class)) {
+//                continue;
+//            }
+//            String url = method.getDeclaredAnnotation(CustomRequestMapping.class).value();
+//            List<String> parmasKey = new ArrayList<>();
+//            for (Parameter parameter : method.getParameters()) {
+//                if (!parameter.isAnnotationPresent(CustomResqusetParam.class)) {
+//                    continue;
+//                }
+//                parmasKey.add(parameter.getDeclaredAnnotation(CustomResqusetParam.class).value());
+//            }
+//            parmasKey.toArray();
+//            String[] args = parmasKey.toArray(new String[parmasKey.size()]);
+//            HandlerMapping handlerMapping = new HandlerMapping(url, method, cla, args);
+//            handlerMappingMap.put(url, handlerMapping);
+//        }
+//
+//    }
+private static void parseHandlerFromController(Class<?> cla) {
+    Method[] methods = cla.getMethods();
+    for (Method method : methods) {
+        if (!method.isAnnotationPresent(CustomRequestMapping.class)) {
+            continue;
+        }
+        String url = method.getDeclaredAnnotation(CustomRequestMapping.class).value();
+        List<String> parmasKey = new ArrayList<>();
+        for (Parameter parameter : method.getParameters()) {
+            if (!parameter.isAnnotationPresent(CustomResqusetParam.class)) {
                 continue;
             }
-            String url = method.getDeclaredAnnotation(CustomRequestMapping.class).value();
-            List<String> parmasKey = new ArrayList<>();
-            for (Parameter parameter : method.getParameters()) {
-                if (!parameter.isAnnotationPresent(CustomResqusetParam.class)) {
-                    continue;
-                }
-                parmasKey.add(parameter.getDeclaredAnnotation(CustomResqusetParam.class).value());
-            }
-            parmasKey.toArray();
-            String[] args = parmasKey.toArray(new String[parmasKey.size()]);
-            HandlerMapping handlerMapping = new HandlerMapping(url, method, cla, args);
-            handlerMappingMap.put(url, handlerMapping);
+            parmasKey.add(parameter.getDeclaredAnnotation(CustomResqusetParam.class).value());
         }
-
+        parmasKey.toArray();
+        String[] args = parmasKey.toArray(new String[parmasKey.size()]);
+        HandlerMapping handlerMapping = new HandlerMapping(url, method, cla, args);
+        handlerMappingMap.put(url, handlerMapping);
     }
+
+}
 
 }

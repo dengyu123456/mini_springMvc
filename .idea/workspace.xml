@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55c8b596-75cd-4752-a2e2-20f2c096c932" name="Default Changelist" comment="" />
+    <list default="true" id="55c8b596-75cd-4752-a2e2-20f2c096c932" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomAround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomProxy_cglib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomProxy_jdk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/Ainte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/testProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/AtomincDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/CountTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/CyclicBarrierTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/ExchangerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/Mutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/SemaphoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/AtomicIntegerArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CustomThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CustomThreadPoolIntf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Daemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ExchangerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Interrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/JoinCountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Mutex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Profiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SemaphoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Shutdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SleepUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SynchonizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/TwinsLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/TwinsLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/CustomClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/CustomClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/core/CustomClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/core/CustomClassLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/handle/HandlerManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/handle/HandlerManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/handle/HandlerMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/handle/HandlerMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/test/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dy/minispringMvc/test/A.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,121 +74,138 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mini_springMvc$test3.ic" NAME="test3 Coverage Results" MODIFIED="1587364987800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dy.threadDemo.threadPoolDemo.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/mini_springMvc$.ic" NAME=" Coverage Results" MODIFIED="1570727251080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ExchangerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomBeanfactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SynchonizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="433">
+              <caret line="48" lean-forward="true" selection-start-line="4" selection-end-line="48" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#205#223#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#390#400#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/Servlet/CustomDispatcherServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="9" column="7" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="1145" column="36" selection-start-line="1145" selection-start-column="34" selection-end-line="1145" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/FutureTaskTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#199#223#0" expanded="true" />
+                <element signature="e#775#783#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DeadLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            <state relative-caret-position="325">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/A.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/MiniSpringMvcApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="39" selection-start-line="16" selection-start-column="13" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/reflect/AccessibleObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerMapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomAutoWired.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="1100">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -135,8 +215,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -144,29 +224,92 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>toS</find>
+      <find>start</find>
+      <find>wait</find>
+      <find>setHead</find>
+      <find>tail</find>
+      <find>enq</find>
+      <find>acquire</find>
+      <find>acquireShared</find>
+      <find>acquireQueued</find>
+      <find>doAcquireShared</find>
+      <find>tryRelease</find>
+      <find>nonfairTryAcquire</find>
+      <find>tryAcquire</find>
+      <find>LockSupport</find>
+      <find>Condition</find>
+      <find>put</find>
+      <find>transfer</find>
+      <find>await</find>
+      <find>resize</find>
+      <find>ForkJoinTask</find>
+      <find>signalWork</find>
+      <find>RejectedExecutionHandler</find>
+      <find>get</find>
+      <find>release</find>
+      <find>park</find>
+      <find>LockSupport.park</find>
+      <find>run</find>
+      <find>execute</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/MiniSpringMvcApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/Ainte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomProxy_jdk.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/TomCatServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/TomcatServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/CustomClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomAutoWired.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomContrller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomRequestMapping.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomResqusetParam.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/Servlet/CustomDispatcherServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/MiniSpringMvcApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomBeanfactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/aop/CustomProxy_cglib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/testProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CustomThreadPoolIntf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CustomThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/Mutex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/Example.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/AtomincDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/CountTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/CyclicBarrierTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/SemaphoreTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/ExchangerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/MultiThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/job.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Priority.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SleepUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Interrupted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Shutdown.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/WaitNotify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Profiler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Daemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Mutex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/TwinsLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/TwinsLockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/AtomicIntegerArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/JoinCountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CyclicBarrierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SemaphoreTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ExchangerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/FutureTaskTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SynchonizedTest.java" />
       </list>
     </option>
   </component>
@@ -198,10 +341,11 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="width" value="965" />
-    <option name="height" value="1040" />
+    <option name="x" value="-9" />
+    <option name="width" value="1935" />
+    <option name="height" value="1039" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -238,7 +382,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="minispringMvc" type="462c0819:PsiDirectoryNode" />
+              <item name="dy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
@@ -246,8 +390,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="minispringMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="dy" type="462c0819:PsiDirectoryNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
@@ -255,40 +399,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="minispringMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="minispringMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="handle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="minispringMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="Servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="minispringMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="dy" type="462c0819:PsiDirectoryNode" />
+              <item name="threadDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="threadPoolDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
@@ -298,19 +411,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570752881700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589547290944" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work_2020年2月1日/ind-job" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -324,13 +439,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.mini_springMvc-1.0-SNAPSHOT.jar">
-    <configuration name="MiniSpringMvcApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dy.minispringMvc.MiniSpringMvcApp" />
+  <component name="RunManager" selected="Application.VolatileTest">
+    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dy.threadDemo.threadPoolDemo.CountDownLatchTest" />
       <module name="mini_springMvc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dy.minispringMvc.*" />
+          <option name="PATTERN" value="com.dy.threadDemo.threadPoolDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,24 +453,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mini_springMvc-1.0-SNAPSHOT-shaded.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/target/mini_springMvc-1.0-SNAPSHOT-shaded.jar" />
-      <method v="2" />
+    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dy.threadDemo.threadPoolDemo.CyclicBarrierTest" />
+      <module name="mini_springMvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dy.threadDemo.threadPoolDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="mini_springMvc-1.0-SNAPSHOT.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/target/mini_springMvc-1.0-SNAPSHOT.jar" />
-      <method v="2" />
+    <configuration name="ExchangerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dy.threadDemo.threadPoolDemo.ExchangerTest" />
+      <module name="mini_springMvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dy.threadDemo.threadPoolDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="original-mini_springMvc-1.0-SNAPSHOT.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/target/original-mini_springMvc-1.0-SNAPSHOT.jar" />
-      <method v="2" />
+    <configuration name="SemaphoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dy.threadDemo.threadPoolDemo.SemaphoreTest" />
+      <module name="mini_springMvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dy.threadDemo.threadPoolDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dy.threadDemo.threadPoolDemo.VolatileTest" />
+      <module name="mini_springMvc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dy.threadDemo.threadPoolDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.mini_springMvc-1.0-SNAPSHOT.jar" />
-        <item itemvalue="JAR Application.mini_springMvc-1.0-SNAPSHOT-shaded.jar" />
-        <item itemvalue="Application.MiniSpringMvcApp" />
-        <item itemvalue="JAR Application.original-mini_springMvc-1.0-SNAPSHOT.jar" />
+        <item itemvalue="Application.VolatileTest" />
+        <item itemvalue="Application.ExchangerTest" />
+        <item itemvalue="Application.SemaphoreTest" />
+        <item itemvalue="Application.CyclicBarrierTest" />
+        <item itemvalue="Application.CountDownLatchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -369,260 +525,589 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570726275124</updated>
-      <workItem from="1570726279655" duration="21125000" />
+      <workItem from="1570726279655" duration="27893000" />
+      <workItem from="1570902880506" duration="13712000" />
+      <workItem from="1572314290784" duration="597000" />
+      <workItem from="1572686106285" duration="440000" />
+      <workItem from="1572686828916" duration="1178000" />
+      <workItem from="1573437658738" duration="1100000" />
+      <workItem from="1573442609700" duration="635000" />
+      <workItem from="1573445775170" duration="599000" />
+      <workItem from="1584696765808" duration="4991000" />
+      <workItem from="1584898482273" duration="1794000" />
+      <workItem from="1585154902028" duration="22358000" />
+      <workItem from="1585500136778" duration="786000" />
+      <workItem from="1585532169724" duration="38063000" />
+      <workItem from="1585984493228" duration="5890000" />
+      <workItem from="1586759278253" duration="596000" />
+      <workItem from="1587000343325" duration="599000" />
+      <workItem from="1587345881051" duration="10541000" />
+      <workItem from="1587468008374" duration="1873000" />
+      <workItem from="1587605238623" duration="598000" />
+      <workItem from="1587817178140" duration="2002000" />
+      <workItem from="1588123486333" duration="91000" />
+      <workItem from="1588313096089" duration="30027000" />
+      <workItem from="1588661972261" duration="10122000" />
+      <workItem from="1588729275256" duration="1882000" />
+      <workItem from="1588817929539" duration="1218000" />
+      <workItem from="1588854478807" duration="1510000" />
+      <workItem from="1588921152724" duration="597000" />
+      <workItem from="1588934494219" duration="5160000" />
+      <workItem from="1588992763373" duration="5246000" />
+      <workItem from="1589037074321" duration="1239000" />
+      <workItem from="1589107764782" duration="597000" />
+      <workItem from="1589168827781" duration="598000" />
+      <workItem from="1589195536327" duration="598000" />
+      <workItem from="1589279286956" duration="11575000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TwinsLockTest_test - 2020.05.05 at 19h 17m 05s.xml">
+      <configuration name="TwinsLockTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21125000" />
+    <option name="totallyTimeSpent" value="206705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32573727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32956153" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41867045" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.37623763" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41784704" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31586403" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" sideWeight="0.4978903" weight="0.3297587" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.5021097" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.4978903" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5021097" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ForkJoinTask.java</url>
+          <line>696</line>
+          <properties class="java.util.concurrent.ForkJoinTask" method="fork">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPool.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/Context.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/CountTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/core/StandardContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="131" column="28" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="259" column="35" lean-forward="true" selection-start-line="258" selection-start-column="1" selection-end-line="262" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Enumeration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="1133" column="28" selection-start-line="1133" selection-start-column="28" selection-end-line="1133" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/Server.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/org/apache/catalina/core/StandardServer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="186" column="18" selection-start-line="186" selection-start-column="18" selection-end-line="186" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="927" column="36" selection-start-line="927" selection-start-column="36" selection-end-line="927" selection-end-column="36" />
-          <folding>
-            <element signature="e#34491#34492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/URLConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="159" column="22" selection-start-line="159" selection-start-column="22" selection-end-line="159" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/CustomClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="27" column="86" selection-start-line="24" selection-start-column="4" selection-end-line="27" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#385#395#0" expanded="true" />
-            <element signature="e#1714#1724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomRequestMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomResqusetParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/mvc/CustomController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/core/TomcatServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="218">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomBean.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/CyclicBarrier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="276">
+          <caret line="466" column="20" lean-forward="true" selection-start-line="466" selection-start-column="20" selection-end-line="466" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/reflect/AccessibleObject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/CyclicBarrierTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="39" selection-start-line="16" selection-start-column="13" selection-end-line="39" />
+        <state relative-caret-position="250">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomAutoWired.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Semaphore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="172">
+          <caret line="311" column="32" lean-forward="true" selection-start-line="311" selection-start-column="32" selection-end-line="311" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/A.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/SemaphoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="400">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/Servlet/CustomDispatcherServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/ExchangerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/MiniSpringMvcApp.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="675">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="13" selection-start-line="22" selection-start-column="12" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/handle/HandlerMapping.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/job.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/MultiThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="275">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/minispringMvc/beans/CustomBeanfactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Priority.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="385" column="33" lean-forward="true" selection-start-line="385" selection-start-column="33" selection-end-line="385" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SleepUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Interrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Shutdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="110" column="63" selection-start-line="110" selection-start-column="60" selection-end-line="110" selection-end-column="63" />
+          <folding>
+            <element signature="e#7765#7766#0" expanded="true" />
+            <element signature="e#7802#7803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Profiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="e#117#123#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+          <folding>
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2060#2061#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4085#4086#0" expanded="true" />
+            <element signature="e#4725#4726#0" expanded="true" />
+            <element signature="e#4793#4794#0" expanded="true" />
+            <element signature="e#5214#5215#0" expanded="true" />
+            <element signature="e#5290#5291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="248" column="9" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#205#223#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#390#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CustomThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1799">
+          <caret line="89" column="46" lean-forward="true" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2252#2253#0" expanded="true" />
+            <element signature="e#2288#2289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CustomThreadPoolIntf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="4" column="8" selection-start-line="3" selection-start-column="1" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConnectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1572#1573#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DefaultThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Daemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Mutex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/TwinsLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+            <element signature="e#1797#1798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/TwinsLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19975">
+          <caret line="844" column="67" selection-start-line="844" selection-start-column="67" selection-end-line="844" selection-end-column="67" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22933#22934#0" expanded="true" />
+            <element signature="e#22965#22966#0" expanded="true" />
+            <element signature="e#32644#32645#0" expanded="true" />
+            <element signature="e#32694#32695#0" expanded="true" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+            <element signature="e#42562#42563#0" expanded="true" />
+            <element signature="e#42619#42620#0" expanded="true" />
+            <element signature="e#44444#44445#0" expanded="true" />
+            <element signature="e#44501#44502#0" expanded="true" />
+            <element signature="e#53988#53989#0" expanded="true" />
+            <element signature="e#54023#54024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/AtomicIntegerArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/JoinCountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CyclicBarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SemaphoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="1145" column="36" selection-start-line="1145" selection-start-column="34" selection-end-line="1145" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/FutureTaskTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#199#223#0" expanded="true" />
+            <element signature="e#775#783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ExchangerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="7" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SynchonizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="48" lean-forward="true" selection-start-line="4" selection-end-line="48" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
           </folding>
         </state>
       </provider>

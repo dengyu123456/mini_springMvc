@@ -10,7 +10,6 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
- * 这个类主要是做url到Controller的映射
  */
 public class HandlerMapping {
     private String url;
