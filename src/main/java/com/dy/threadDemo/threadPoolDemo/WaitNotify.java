@@ -1,15 +1,15 @@
 package com.dy.threadDemo.threadPoolDemo;
 
 /**
- *   synchronized(对象) {
- *     while(条件不满足) {
- *     对象.wait();
- *   }对应的处理逻辑 }
- *
- *   synchronized(对象) {
- *      改变条件
- *      对象.notifyAll();
- *      }
+ * synchronized(对象) {
+ *    while(条件不满足) {
+ *        对象.wait();
+ *    }对应的处理逻辑 }
+
+ *    synchronized(对象) {
+ *        改变条件
+ *        对象.notifyAll();
+ * }
  */
 public class WaitNotify {
     private static Object lock = new Object();

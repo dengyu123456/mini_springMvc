@@ -15,8 +15,8 @@ public class SemaphoreTest {
      */
     private static final int THREAD_COUNT = 30;
     static ExecutorService thredPool = Executors.newFixedThreadPool(THREAD_COUNT);
-    static Semaphore semaphore = new Semaphore(10);
 
+    static Semaphore semaphore = new Semaphore(10);
     public static void main(String[] args) {
         for (int i = 0; i < THREAD_COUNT; i++) {
             thredPool.execute(new Runnable() {

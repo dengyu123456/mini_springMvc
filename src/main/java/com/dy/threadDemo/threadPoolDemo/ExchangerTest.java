@@ -5,9 +5,10 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class ExchangerTest {
+
+
     static ExecutorService thredPool = Executors.newFixedThreadPool(2);
     static Exchanger<String> exge = new Exchanger<String>();
-
     public static void main(String[] args) {
         thredPool.execute(new Runnable() {
             @Override

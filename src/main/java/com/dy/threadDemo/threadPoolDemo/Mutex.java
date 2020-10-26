@@ -28,13 +28,13 @@ public class Mutex implements Lock {
         }
 
         // 释放锁，将状态设置为0
-
-        protected void tryRelease() {
+        protected boolean tryRelease() {
             if (getState() == 0) {
                 throw new IllegalMonitorStateException();
             }
             setExclusiveOwnerThread(null);
             setState(0);
+            return true;
         }
 
         // 返回一个Condition，每个condition都包含了一个condition队列
