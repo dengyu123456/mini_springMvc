@@ -5,114 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55c8b596-75cd-4752-a2e2-20f2c096c932" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/core/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/core/Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/core/RowSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/operator/UnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/student.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/student_header.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/utils/Read.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/jvmdemo/HeepOMM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/jvmdemo/JavaVMStackSOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/jvmdemo/tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/TreeNodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_101NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_103NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_110NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_111NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_112NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_113NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_129NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_235NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_404No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_437NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_二分搜索树BST/_98NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_120NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_198NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_213NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_309NO以后做.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_337NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_343NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_376.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_377NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_494.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_62NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_63NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/_64NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_动态规划/背包问题/_474.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_回溯相关/_131NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_回溯相关/_93NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_图相关/_127NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_图相关/_279NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_堆相关/_23NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_堆相关/_347NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_排列相关/_46NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_排列相关/_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_11NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_149NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_15NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_16NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_18NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_454NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_76NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_数组指针相关/_80NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_栈相关/_150NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_栈相关/_71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_渲染问题/_130NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_渲染问题/_200NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_渲染问题/_37NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_渲染问题/_79NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_组合问题/_216NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_组合问题/_39NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_组合问题/_40NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_组合问题/_77NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_组合问题/_78NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_组合问题/_90NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_148NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_19NO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_25YES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_链表相关/_86No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/suanfa/sort/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/suanfa/sort/FastSort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/suanfa/sort/FastSort02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/suanfa/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/suanfa/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/suanfa/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/queueDemo/ConcurrentlinkedQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/queueDemo/PriorityBlockingQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadDemo0616/FIFOMutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadDemo0616/FIFOMutexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadDemo0616/TestUnSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadDemo0616/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ConditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/LockSupportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/test/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CyclicBarrierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/CyclicBarrierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ExchangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/ExchangerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Mutex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/Mutex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SemaphoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SemaphoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SynchonizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/SynchonizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/WaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/threadDemo/threadPoolDemo/test3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -156,14 +51,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/databasedemo/test/teat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="300">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="52" column="19" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -255,8 +168,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -300,8 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_110NO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_112NO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_404No.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_113NO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_129NO.java" />
@@ -351,6 +262,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/core/Cell.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/student.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/test/teat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java" />
       </list>
     </option>
   </component>
@@ -440,47 +353,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dy" type="462c0819:PsiDirectoryNode" />
-              <item name="databasedemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dy" type="462c0819:PsiDirectoryNode" />
-              <item name="databasedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dy" type="462c0819:PsiDirectoryNode" />
-              <item name="databasedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dy" type="462c0819:PsiDirectoryNode" />
-              <item name="databasedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dy" type="462c0819:PsiDirectoryNode" />
-              <item name="databasedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
@@ -497,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601014717491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603794984212" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work_2020年2月1日/shoopee-code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -523,7 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.teat">
+  <component name="RunManager" selected="Application._875">
     <configuration name="Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dy.databasedemo.utils.Read" />
       <module name="mini_springMvc" />
@@ -563,12 +436,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_494" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dy.leetcode._动态规划._494" />
+    <configuration name="_875" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dy.leetcode._二分查找相关._875" />
       <module name="mini_springMvc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dy.leetcode._动态规划.*" />
+          <option name="PATTERN" value="com.dy.leetcode._二分查找相关.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -590,19 +463,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._494" />
       <item itemvalue="Application._300" />
       <item itemvalue="Application._376" />
       <item itemvalue="Application.Read" />
       <item itemvalue="Application.teat" />
+      <item itemvalue="Application._875" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._875" />
         <item itemvalue="Application.teat" />
         <item itemvalue="Application.Read" />
         <item itemvalue="Application._376" />
         <item itemvalue="Application._300" />
-        <item itemvalue="Application._494" />
       </list>
     </recent_temporary>
   </component>
@@ -798,7 +671,7 @@
       <workItem from="1603176117750" duration="686000" />
       <workItem from="1603334986865" duration="2006000" />
       <workItem from="1603511407904" duration="599000" />
-      <workItem from="1603679921746" duration="628000" />
+      <workItem from="1603679921746" duration="11382000" />
     </task>
     <task id="LOCAL-00001" summary="多线程">
       <created>1589547479762</created>
@@ -807,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589547479762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode">
+      <created>1603708913076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603708913076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -816,7 +696,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1001978000" />
+    <option name="totallyTimeSpent" value="1012732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -831,7 +711,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43846154" visible="true" weight="0.19034852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43846154" visible="true" weight="0.19034852" />
       <window_info id="Structure" order="1" sideWeight="0.56153846" side_tool="true" weight="0.24597855" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -840,8 +720,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010571" side_tool="true" weight="0.27144772" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26770538" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.39660057" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26770538" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" visible="true" weight="0.39660057" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -909,7 +789,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="多线程" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1197,20 +1078,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14400">
-          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12250">
-          <caret line="523" column="13" selection-start-line="523" selection-start-column="13" selection-end-line="523" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_堆相关/_23NO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -1551,8 +1418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/databasedemo/test/teat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1623,6 +1490,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="44" column="39" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
