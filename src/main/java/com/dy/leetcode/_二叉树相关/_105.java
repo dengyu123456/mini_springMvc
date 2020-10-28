@@ -11,7 +11,7 @@ public class _105 {
         visitSet.add(preorder[0]);
         for (int i = 0; i < preorder.length; i++) {
             if (!visitSet.contains(preorder[i])) {
-                resRoot.setLeft(new TreeNode(preorder[]));
+                resRoot.setLeft(new TreeNode(preorder[1]));
             }
         }
         return resRoot;
