@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55c8b596-75cd-4752-a2e2-20f2c096c932" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_105.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_111NO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_111NO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,10 +53,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/databasedemo/test/teat.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_105.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,26 +74,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_111NO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="52" column="19" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="418">
+              <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+              <folding>
+                <element signature="e#1499#1500#0" expanded="true" />
+                <element signature="e#1534#1535#0" expanded="true" />
+                <element signature="e#1564#1565#0" expanded="true" />
+                <element signature="e#1597#1598#0" expanded="true" />
+                <element signature="e#1624#1625#0" expanded="true" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#1698#1699#0" expanded="true" />
+                <element signature="e#1732#1733#0" expanded="true" />
+                <element signature="e#1760#1761#0" expanded="true" />
+                <element signature="e#1804#1805#0" expanded="true" />
+                <element signature="e#1838#1839#0" expanded="true" />
+                <element signature="e#1469#1470#0" expanded="true" />
+                <element signature="e#1492#1493#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/databasedemo/student_header.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -213,8 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_404No.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_113NO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_129NO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_437NO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_235NO.java" />
@@ -264,6 +282,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dy/databasedemo/test/teat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_111NO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_105.java" />
       </list>
     </option>
   </component>
@@ -313,6 +333,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -357,20 +379,48 @@
             </path>
             <path>
               <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dy" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="_String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dy" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="_二分查找相关" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini_springMvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dy" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="_二叉树相关" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini_springMvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603794984212" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603881830301" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work_2020年2月1日/shoopee-code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -672,6 +722,7 @@
       <workItem from="1603334986865" duration="2006000" />
       <workItem from="1603511407904" duration="599000" />
       <workItem from="1603679921746" duration="11382000" />
+      <workItem from="1603851837928" duration="6634000" />
     </task>
     <task id="LOCAL-00001" summary="多线程">
       <created>1589547479762</created>
@@ -696,7 +747,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1012732000" />
+    <option name="totallyTimeSpent" value="1019366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -708,10 +759,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.43846154" visible="true" weight="0.19034852" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43846154" visible="true" weight="0.1930295" />
       <window_info id="Structure" order="1" sideWeight="0.56153846" side_tool="true" weight="0.24597855" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -721,11 +772,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26770538" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" visible="true" weight="0.39660057" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.39660057" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.37252125" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932975" weight="0.3286119" />
@@ -1078,23 +1129,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_堆相关/_23NO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_回溯相关/_131NO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -1418,8 +1452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/databasedemo/test/teat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="275">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1493,17 +1527,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="19" />
+        <state relative-caret-position="175">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_String/_14.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二分查找相关/_875.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="300">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_111NO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding>
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="e#1732#1733#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+            <element signature="e#1804#1805#0" expanded="true" />
+            <element signature="e#1838#1839#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dy/leetcode/_二叉树相关/_105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
