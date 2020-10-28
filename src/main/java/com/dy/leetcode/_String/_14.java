@@ -1,5 +1,6 @@
 package com.dy.leetcode._String;
 
+
 //最长公共前缀
 public class _14 {
     public String longestCommonPrefix(String[] strs) {
@@ -30,6 +31,7 @@ public class _14 {
     }
 
     public static void main(String[] args) {
-
+        java.lang.String[] strings = {"flower", "flow", "flight"};
+        System.out.println(new _14().longestCommonPrefix(strings));
     }
 }
