@@ -63,11 +63,18 @@ public class Read {
             List<Row> rows = new ArrayList<>();
             // 一次读入一行，直到读入null为文件结束
             while ((rowString = reader.readLine()) != null && line <= limit) {
-                List<Cell> cells = JSONArray.parseArray(rowString, Cell.class);
-                Row row = new Row();
-                row.setCells(cells);
+                Row row = JSONArray.parseObject(rowString, Row.class);
+                //Row row = (Row) JSONArray.parseArray(rowString, Row.class);
+//                Row row = new Row();
+//                row.setCells(cells);
                 rows.add(row);
                 line++;
+
+//                List<Cell> cells = JSONArray.parseArray(rowString, Cell.class);
+//                Row row = new Row();
+//                row.setCells(cells);
+//                rows.add(row);
+//                line++;
             }
             rowSet.setRows(rows);
             reader.close();

@@ -1,6 +1,6 @@
 package com.dy.suanfa.sort;
 
-public class FastSort01 {
+public class  FastSort01  {
     public static void sort(Comparable[] a) {
         sort(a, 0, a.length - 1);
     }

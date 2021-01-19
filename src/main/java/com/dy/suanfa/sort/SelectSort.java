@@ -1,5 +1,8 @@
 package com.dy.suanfa.sort;
 
+import java.util.HashMap;
+import java.util.Map;
+
 //选择排序
 public class SelectSort {
     public static void sort(Comparable[] a) {
@@ -58,7 +61,7 @@ public class SelectSort {
         Integer[] arr = {12, 524, 13221, 5, 4, 5, 32, 34, 5, 512, 3, 3, 765, 7, 876, 54};
         sort(arr);
         show(arr);
-
+        HashMap<Object, Object> map = new HashMap<>();
 
     }
 }
