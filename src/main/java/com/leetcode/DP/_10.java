@@ -82,14 +82,19 @@ public class _10 {
             }
             //如果遇到“*”
             if (i < pArray.length && '*' == pArray[i]) {
-                //代替0个
-                
-                //*代替一个a
                 char preStr = pArray[i - 1];
+                //代替0个
+                if (j == strArray.length ){
+                    if (isMatch(s.substring(j-1, s.length()), p.substring(i + 1, p.length()))) return true;
+                }
+
+                //*代替一个以上
                 while (j < strArray.length && strArray[j] == preStr) {
                     j++;
                     if (isMatch(s.substring(j, s.length()), p.substring(i + 1, p.length()))) return true;
                 }
+
+
                 i++;
             }
             if (j < strArray.length&&i < pArray.length&&pArray[i] != strArray[j]) return false;
@@ -113,10 +118,10 @@ public class _10 {
 
         //"aaa"
         //"ab*ac*a"
-//        String s = "aaa";
-//        String p = "aaa*a";
-        String s = "mississippi";
-        String p = "mis*is*ip*.";
+        String s = "aab";
+        String p = "c*a*b";
+//        String s = "mississippi";
+//        String p = "mis*is*ip*.";
         System.out.println(new _10().isMatch(s, p));
     }
 }
