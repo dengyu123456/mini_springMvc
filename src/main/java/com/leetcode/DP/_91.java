@@ -1,6 +1,7 @@
 package com.leetcode.DP;
 
 
+import java.awt.*;
 import java.util.*;
 
 public class _91 {
@@ -38,7 +39,9 @@ public class _91 {
     }
 
     public static void main(String[] args) {
-        _91 a = new _91();
-        System.out.println(a.numDecodings("2222"));
+//        _91 a = new _91();
+//        System.out.println(a.numDecodings("2222"));
+        Frame frame=new Frame();
+        frame.setVisible(true);
     }
 }
