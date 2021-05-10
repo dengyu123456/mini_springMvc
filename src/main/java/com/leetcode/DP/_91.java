@@ -41,7 +41,13 @@ public class _91 {
     public static void main(String[] args) {
 //        _91 a = new _91();
 //        System.out.println(a.numDecodings("2222"));
-        Frame frame=new Frame();
-        frame.setVisible(true);
+//        Frame frame=new Frame();
+//        frame.setVisible(true);
+        int a =(500*300)*(400*200); //12,000,000,000
+        System.out.println(a);
+        System.out.println(Integer.MAX_VALUE);
+        int b=884901888;
+        System.out.println(b);
+
     }
 }

@@ -15,7 +15,7 @@ public class _402 {
         AA dp[][] = new AA[num.length()][k + 1];
         //先找出AA dp[a+1][1]的值
 
-        new AA(0, 0);
+        new AA("", 0);
         return dp[num.length() - 1][k] + "";
 
     }
@@ -23,16 +23,17 @@ public class _402 {
     public static void main(String[] args) {
         String a = "1261";
         a.replace('1', ' ');
+        System.out.println(a);
     }
 }
 
 class AA {
-    int dp;
+    String dp;
 
     //存储dp（i，j）当中最大的一个值在num当中的索引；
     int maxIndex;
 
-    public AA(int dp, int maxIndex) {
+    public AA(String dp, int maxIndex) {
         this.dp = dp;
         this.maxIndex = maxIndex;
     }
